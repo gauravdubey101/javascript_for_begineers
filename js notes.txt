@@ -1,0 +1,16 @@
+Data types in js :
+1.  primitive datatypes
+     -stores in stack
+	->string
+	->number
+	->Boolen
+	->null
+	->undefined
+	->Symbol
+2.  Reference data type
+	-stores in heap.
+
+	->Arrays
+	->Object literals
+	->Function
+	->dates
