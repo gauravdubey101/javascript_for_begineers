@@ -1,5 +1,5 @@
 //type conversion and typoe coercion
-//console.log('welcome to type conversion tuts');
+// console.log('welcome to type conversion tuts');
 
 let myVar;
 myVar = String(34);
@@ -17,3 +17,4 @@ let arr = String([1,2,3,4]);
 
 let i = 8;
 console.log(i.toString());
+
